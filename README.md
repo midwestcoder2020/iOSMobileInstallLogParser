@@ -6,12 +6,12 @@
 #       -install records
 #       -uninstall records
 
-# Technology Used:
+## Technology Used:
  * -Python 3.6+
  * -Gooey Library
 
 
-#GUI VERSION
+# GUI VERSION
 
 ## Setup
 To run this project, install it locally using npm:
@@ -23,7 +23,7 @@ $ pip install -r reqs.txt
 $ use python to start the GUI Project
 ```
 
-#No GUI VERSION
+# No GUI VERSION
 
 ## Setup
 To run this project, install it locally using npm:
