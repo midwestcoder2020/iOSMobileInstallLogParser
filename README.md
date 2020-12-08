@@ -33,3 +33,9 @@ $ cd ../iOSMobileInstallLogParser
 $ python main.py
 follow the prompts
 ```
+
+## Pictures
+
+![GUI](./sampleimages/gui.PNG)
+
+![Output](./images/outputsample.PNG)
