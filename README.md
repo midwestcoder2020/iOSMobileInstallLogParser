@@ -7,7 +7,7 @@
 #       -uninstall records
 
 # Technology Used:
- *-Python 3.6+
+ * -Python 3.6+
  * -Gooey Library
 
 
