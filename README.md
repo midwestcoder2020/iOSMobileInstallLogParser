@@ -38,4 +38,4 @@ follow the prompts
 
 ![GUI](./sampleimages/gui.PNG)
 
-![Output](./images/outputsample.PNG)
+![Output](./sampleimages/outputsample.PNG)
