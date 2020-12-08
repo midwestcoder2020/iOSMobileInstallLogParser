@@ -1,0 +1,90 @@
+2020-12-08 11:51:16.523033  Parsing Started 
+
+Sun Dec  2 11:05:19 2018 [47] <notice> (0x16bad3000) -[MIInstaller performInstallationWithError:]: Installing <MIInstallableBundle ID=com.getdropbox.Dropbox; Version=(null), ShortVersion=(null)>
+
+Sun Dec  2 11:05:19 2018 [47] <notice> (0x16bad3000) -[MIInstaller performInstallationWithError:]: Install Successful for (com.getdropbox.Dropbox); Staging: 0.10s; Waiting: 0.00s; Preflight/Patch: 0.00s, Verifying: 0.01s; Overall: 0.21s
+
+Sun Dec  2 11:05:36 2018 [47] <notice> (0x16bb5f000) -[MIInstaller performInstallationWithError:]: Installing <MIInstallableBundle ID=com.getdropbox.Dropbox; Version=122.2.2, ShortVersion=122.2>
+
+Sun Dec  2 11:05:47 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _validateApplicationIdentifierForNewBundleSigningInfo:error:]: Allowing update to app com.getdropbox.Dropbox even though the older version does not have the application-identifier entitlement.
+
+Sun Dec  2 11:05:48 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle finalizeInstallationWithError:]: App no longer needs data container for plugin with id com.getdropbox.Dropbox.iMessageExtension; removing it
+
+Sun Dec  2 11:05:48 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox is now at /private/var/mobile/Containers/Data/Application/9A93A386-2EAF-4AF0-8002-BBE7AC4247E1
+
+Sun Dec  2 11:05:48 2018 [47] <notice> (0x16bb5f000) -[MIInstaller performInstallationWithError:]: Install Successful for (com.getdropbox.Dropbox); Staging: 0.74s; Waiting: 0.00s; Preflight/Patch: 0.08s, Verifying: 10.58s; Overall: 12.33s
+
+Fri Dec 28 22:15:55 2018 [47] <notice> (0x16bc77000) -[MIInstaller performInstallationWithError:]: Installing <MIInstallableParallelPlaceholder ID=com.getdropbox.Dropbox; Version=(null), ShortVersion=(null)>
+
+Fri Dec 28 22:15:57 2018 [47] <notice> (0x16bc77000) -[MIInstaller performInstallationWithError:]: Install Successful for (com.getdropbox.Dropbox); Staging: 0.13s; Waiting: 0.00s; Preflight/Patch: 0.02s, Verifying: 0.02s; Overall: 2.21s
+
+Fri Dec 28 22:15:59 2018 [47] <notice> (0x16bb5f000) -[MIInstaller performInstallationWithError:]: Installing <MIInstallableBundlePatch ID=com.getdropbox.Dropbox; Version=124.2.2, ShortVersion=124.2>
+
+Fri Dec 28 22:15:59 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundlePatch applyPatchWithError:]: Attempting Delta patch update of com.getdropbox.Dropbox from 122.2.2 (122.2) to 124.2.2 (124.2)
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox is now at /private/var/mobile/Containers/Data/Application/2EBA08BC-710E-4B5A-8D76-087DE6B846CA
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.ActionExtension is now at /private/var/mobile/Containers/Data/PluginKitPlugin/2958D62E-D837-4241-BE4A-332C68DFE8D1
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.DropboxTodayView is now at /private/var/mobile/Containers/Data/PluginKitPlugin/7DC61AC4-5B1E-43C5-94F0-B4969762FC2E
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.FileProviderUI is now at /private/var/mobile/Containers/Data/PluginKitPlugin/3B7AC489-FD7A-4545-B7EF-4EAB1911E493
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.iMessage is now at /private/var/mobile/Containers/Data/PluginKitPlugin/EA91B010-97B1-4A1A-98C2-9D7E73333F6D
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.DocPicker is now at /private/var/mobile/Containers/Data/PluginKitPlugin/0D0EE0DF-B256-4F60-B0F6-6D41698DCC8A
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.FileProvider is now at /private/var/mobile/Containers/Data/PluginKitPlugin/99975D65-F806-4276-A3A5-F5952EBC2C1B
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.DropboxShareExtension is now at /private/var/mobile/Containers/Data/PluginKitPlugin/905C93CC-85D1-46D1-BD20-2681D864DD69
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstaller performInstallationWithError:]: Install Successful for (com.getdropbox.Dropbox); Staging: 1.43s; Waiting: 0.00s; Preflight/Patch: 24.65s, Verifying: 33.26s; Overall: 59.87s
+
+20 records found
+ 
+2020-12-08 11:51:17.183103  Parsing Finished
+2020-12-08 11:54:06.907284  Parsing Started 
+
+Sun Dec  2 11:05:19 2018 [47] <notice> (0x16bad3000) -[MIInstaller performInstallationWithError:]: Installing <MIInstallableBundle ID=com.getdropbox.Dropbox; Version=(null), ShortVersion=(null)>
+
+Sun Dec  2 11:05:19 2018 [47] <notice> (0x16bad3000) -[MIInstaller performInstallationWithError:]: Install Successful for (com.getdropbox.Dropbox); Staging: 0.10s; Waiting: 0.00s; Preflight/Patch: 0.00s, Verifying: 0.01s; Overall: 0.21s
+
+Sun Dec  2 11:05:36 2018 [47] <notice> (0x16bb5f000) -[MIInstaller performInstallationWithError:]: Installing <MIInstallableBundle ID=com.getdropbox.Dropbox; Version=122.2.2, ShortVersion=122.2>
+
+Sun Dec  2 11:05:47 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _validateApplicationIdentifierForNewBundleSigningInfo:error:]: Allowing update to app com.getdropbox.Dropbox even though the older version does not have the application-identifier entitlement.
+
+Sun Dec  2 11:05:48 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle finalizeInstallationWithError:]: App no longer needs data container for plugin with id com.getdropbox.Dropbox.iMessageExtension; removing it
+
+Sun Dec  2 11:05:48 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox is now at /private/var/mobile/Containers/Data/Application/9A93A386-2EAF-4AF0-8002-BBE7AC4247E1
+
+Sun Dec  2 11:05:48 2018 [47] <notice> (0x16bb5f000) -[MIInstaller performInstallationWithError:]: Install Successful for (com.getdropbox.Dropbox); Staging: 0.74s; Waiting: 0.00s; Preflight/Patch: 0.08s, Verifying: 10.58s; Overall: 12.33s
+
+Fri Dec 28 22:15:55 2018 [47] <notice> (0x16bc77000) -[MIInstaller performInstallationWithError:]: Installing <MIInstallableParallelPlaceholder ID=com.getdropbox.Dropbox; Version=(null), ShortVersion=(null)>
+
+Fri Dec 28 22:15:57 2018 [47] <notice> (0x16bc77000) -[MIInstaller performInstallationWithError:]: Install Successful for (com.getdropbox.Dropbox); Staging: 0.13s; Waiting: 0.00s; Preflight/Patch: 0.02s, Verifying: 0.02s; Overall: 2.21s
+
+Fri Dec 28 22:15:59 2018 [47] <notice> (0x16bb5f000) -[MIInstaller performInstallationWithError:]: Installing <MIInstallableBundlePatch ID=com.getdropbox.Dropbox; Version=124.2.2, ShortVersion=124.2>
+
+Fri Dec 28 22:15:59 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundlePatch applyPatchWithError:]: Attempting Delta patch update of com.getdropbox.Dropbox from 122.2.2 (122.2) to 124.2.2 (124.2)
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox is now at /private/var/mobile/Containers/Data/Application/2EBA08BC-710E-4B5A-8D76-087DE6B846CA
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.ActionExtension is now at /private/var/mobile/Containers/Data/PluginKitPlugin/2958D62E-D837-4241-BE4A-332C68DFE8D1
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.DropboxTodayView is now at /private/var/mobile/Containers/Data/PluginKitPlugin/7DC61AC4-5B1E-43C5-94F0-B4969762FC2E
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.FileProviderUI is now at /private/var/mobile/Containers/Data/PluginKitPlugin/3B7AC489-FD7A-4545-B7EF-4EAB1911E493
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.iMessage is now at /private/var/mobile/Containers/Data/PluginKitPlugin/EA91B010-97B1-4A1A-98C2-9D7E73333F6D
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.DocPicker is now at /private/var/mobile/Containers/Data/PluginKitPlugin/0D0EE0DF-B256-4F60-B0F6-6D41698DCC8A
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.FileProvider is now at /private/var/mobile/Containers/Data/PluginKitPlugin/99975D65-F806-4276-A3A5-F5952EBC2C1B
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.getdropbox.Dropbox.DropboxShareExtension is now at /private/var/mobile/Containers/Data/PluginKitPlugin/905C93CC-85D1-46D1-BD20-2681D864DD69
+
+Fri Dec 28 22:16:58 2018 [47] <notice> (0x16bb5f000) -[MIInstaller performInstallationWithError:]: Install Successful for (com.getdropbox.Dropbox); Staging: 1.43s; Waiting: 0.00s; Preflight/Patch: 24.65s, Verifying: 33.26s; Overall: 59.87s
+
+20 records found
+ 
+2020-12-08 11:54:07.532231  Parsing Finished
