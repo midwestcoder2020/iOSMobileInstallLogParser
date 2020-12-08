@@ -17,7 +17,7 @@
 To run this project, install it locally using npm:
 
 ```
-$ cd ../iOSMobileInstallLogParser
+$ cd ../iOSMobileInstallLogParser/GUI
 activate virtual environment or not
 $ pip install -r reqs.txt
 $ use python to start the GUI Project
