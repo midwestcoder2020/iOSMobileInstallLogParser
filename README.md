@@ -1,6 +1,4 @@
 # iOSMobileInstallLogParser
- Parses iOS Mobile Installation Logs and provides output
-
 
 # Descrition:
 ## allows user to select the log file for exact parsing. the user can specify between one application or all applications for:
