@@ -2,9 +2,11 @@
  Parses iOS Mobile Installation Logs and provides output
 
 
-# Descrition allows user to select the log file for exact parsing. the user can specify between one application or all applications for:
-#       -install records
-#       -uninstall records
+# Descrition:
+## allows user to select the log file for exact parsing. the user can specify between one application or all applications for:
+###      -install records
+###      -uninstall records
+###      -both
 
 ## Technology Used:
  * -Python 3.6+
